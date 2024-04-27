@@ -19,7 +19,7 @@ function App() {
       <div className="creators-container">
         <CreatorCard name="Hasan Hammadeh" userId="hasan_311469" />
         <CreatorCard name="Bashar Qarat" userId="bashar_301296" />
-        <CreatorCard name="Ali Ahmad" userId="ali_haidar_296891" />
+        <CreatorCard name="Ali Haidar Ahmad" userId="ali_haidar_296891" />
         <CreatorCard name="Jawa Shriba" userId="jawa_317878" />
       </div>
     </div>
